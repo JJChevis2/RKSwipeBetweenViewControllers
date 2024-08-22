@@ -8,9 +8,7 @@ __Please check the .h to see how to customize anything__
 [Support](http://cwrichardkim.com)
 
 ## Pod
-You should not use the pod in most cases, as they don't allow for customizability.  I would recommend dragging the .h and .m files manually into your project
-	
-	pod 'RKSwipeBetweenViewControllers'
+You should not use the pod in most cases, as they don't allow for customizability.  I would recommend dragging the .h and .m files manually into your '
 	
 
 ## Updates, Questions, and Requests
