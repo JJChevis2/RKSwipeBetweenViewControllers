@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "RKSwipeBetweenViewControllers"
-  s.version      = "0.1.4"
+  s.version      = "5.1.4"
   s.summary      = "Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar"
 
   s.description  = "Similar to Twitter and Spotify, swipe between view controllers and the tabs in the navigation bar changes. -twitter, -spotify, -swipe, -navigation bar, -navigationbar, -between, -view controllers, -viewcontroller, -tab, -objectivec, -ios, -iphone, -xcode"
@@ -56,8 +56,8 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # s.platform     = :ios
-  s.platform     = :ios, "7.0"
+  # s.platform     =
+  s.platform     = :ios, "18.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
@@ -101,14 +101,10 @@ Pod::Spec.new do |s|
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  Link your library with frameworks, or libraries. Libraries do not include
-  #  the lib prefix of their name.
-  #
+  #  the lib prefix of "
 
-  # s.framework  = "SomeFramework"
-  # s.frameworks = "SomeFramework", "AnotherFramework"
 
-  # s.library   = "iconv"
-  # s.libraries = "iconv", "xml2"
+  
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
